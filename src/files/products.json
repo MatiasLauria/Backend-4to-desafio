@@ -1,0 +1,123 @@
+[
+  {
+    "id": 2,
+    "title": "Te",
+    "description": "La Virginia",
+    "price": 2001,
+    "thumbnail": "http://te.png",
+    "code": "CA46CO",
+    "category": "frutas",
+    "stock": 36
+  },
+  {
+    "id": 3,
+    "title": "Yerba",
+    "description": "playadito",
+    "price": 2002,
+    "thumbnail": "http://yerba.png",
+    "code": "CA47CO",
+    "category": "frutas",
+    "stock": 37
+  },
+  {
+    "id": 4,
+    "title": "Mate Cocido",
+    "description": "Taragui",
+    "price": 2003,
+    "thumbnail": "http://mate-cocido.png",
+    "code": "CA48CO",
+    "category": "frutas",
+    "stock": 38
+  },
+  {
+    "id": 5,
+    "title": "Agua",
+    "description": "Kim",
+    "price": 2004,
+    "thumbnail": "http://agua.png",
+    "code": "CA49CO",
+    "stock": 39
+  },
+  {
+    "id": 6,
+    "title": "Leche",
+    "description": "Serenisima",
+    "price": 2005,
+    "thumbnail": "http://leche.png",
+    "code": "CA50CO",
+    "category": "frutas",
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "title": "Jugo de Naranja",
+    "description": "Citric",
+    "price": 2006,
+    "thumbnail": "http://jugo-naranja.png",
+    "code": "CA51CO",
+    "category": "frutas",
+    "stock": 41
+  },
+  {
+    "id": 8,
+    "title": "Limonada",
+    "description": "Prity",
+    "price": 2007,
+    "thumbnail": "http://limonada.png",
+    "code": "CA52CO",
+    "category": "frutas",
+    "stock": 42
+  },
+  {
+    "id": 9,
+    "title": "Mermelada Arandanos",
+    "description": "Bc",
+    "price": 2008,
+    "thumbnail": "http://mermelada-arandanos.png",
+    "code": "CA53CO",
+    "category": "frutas",
+    "stock": 43
+  },
+  {
+    "id": 10,
+    "title": "Queso Crema",
+    "description": "Serenisima",
+    "price": 2009,
+    "thumbnail": "http://queso-crema.png",
+    "code": "CA54CO",
+    "category": "frutas",
+    "stock": 44
+  },
+  {
+    "id": 1,
+    "title": "Cafe",
+    "description": "Cafe tostado Juan Valdez",
+    "price": 2000,
+    "thumbnail": "http://cafe.png",
+    "code": "CA45CO",
+    "category": "frutas",
+    "stock": 35
+  },
+  {
+    "id": 2,
+    "title": "chocolate",
+    "description": "milka 1kg",
+    "price": "1500",
+    "thumbnail": "chocolate.png",
+    "category": "chocolates",
+    "status": true,
+    "code": "ch01",
+    "stock": "200"
+  },
+  {
+    "id": 3,
+    "title": "fideos",
+    "description": "fideos caceros",
+    "price": "1499",
+    "thumbnail": "fideos.png",
+    "category": "fideos",
+    "status": true,
+    "code": "fi01",
+    "stock": "100"
+  }
+]
